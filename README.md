@@ -1,8 +1,5 @@
 # Optimizer
-# Optimizer
-# Optimizer
-# Optimizer
-# Optimizer
-# Optimizer
-# Optimizer
-# Optimizer
+얼불춤 장식의 텍스처를 압축하여 성능을 향상시켜줍니다.
+# 작동 범위
+공식 레벨을 제외한 모든 레벨 가능
+(단, XI-X 이후에 나온 공식 레벨일 경우 작동함.)
