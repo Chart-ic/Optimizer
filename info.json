@@ -1,0 +1,9 @@
+{
+  "Id": "optimiz",
+  "DisplayName": "Optimizer",
+  "Author": "Chartic & SANSMASTER",
+  "Version": "0.0.3",
+  "ManagerVersion": "0.22.14.0",
+  "AssemblyName": "SANSMASTER.dll",
+  "EntryMethod": "SANSMASTER.Startup.Load"
+}
